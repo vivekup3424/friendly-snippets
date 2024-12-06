@@ -411,5 +411,167 @@
         "prefix": ["caution", "c"],
         "body": "> [!CAUTION]\n> ",
         "description": "Insert Caution"
-    }
+    },
+    {
+  "Happy Face": {
+    "prefix": "happy-face",
+    "body": [
+      "// (•‿•) ${1:Coding is fun!}"
+    ],
+    "description": "Add a happy face comment with customizable text"
+  },
+  "Winking Face": {
+    "prefix": "winking-face",
+    "body": [
+      "// (¬‿¬) ${1:Bet you didn’t see this bug coming...}"
+    ],
+    "description": "Add a winking face comment with customizable text"
+  },
+  "Confused Face": {
+    "prefix": "confused-face",
+    "body": [
+      "// (⊙_☉) ${1:Hmm, something’s not right here...}"
+    ],
+    "description": "Add a confused face comment with customizable text"
+  },
+  "Serious Face": {
+    "prefix": "serious-face",
+    "body": [
+      "// ಠ_ಠ ${1:Who wrote this code?}"
+    ],
+    "description": "Add a serious face comment with customizable text"
+  },
+  "Table Flip": {
+    "prefix": "table-flip",
+    "body": [
+      "// (╯°□°）╯︵ ┻━┻ ${1:Rage quit!}"
+    ],
+    "description": "Add a table flip comment with customizable text"
+  },
+  "Bear Face": {
+    "prefix": "bear-face",
+    "body": [
+      "// ʕ•ᴥ•ʔ ${1:Don't worry, bear with it.}"
+    ],
+    "description": "Add a bear face comment with customizable text"
+  },
+  "Cat": {
+    "prefix": "cat",
+    "body": [
+      "// /\\_/\\",
+      "// ( o.o ) ${1:Meow!}",
+      "// > ^ <"
+    ],
+    "description": "Add a cat ASCII art with customizable text"
+  },
+  "Dolphin": {
+    "prefix": "dolphin",
+    "body": [
+      "// ~~~~~~~ <°))))>< ${1:Dolphin says hi!}"
+    ],
+    "description": "Add a dolphin ASCII art with customizable text"
+  },
+  "Fish": {
+    "prefix": "fish",
+    "body": [
+      "// ><((('> ${1:Swim, fishy, swim!}"
+    ],
+    "description": "Add a fish ASCII art with customizable text"
+  },
+  "Dog": {
+    "prefix": "dog",
+    "body": [
+      "// ∪･ω･∪ ${1:Woof!}"
+    ],
+    "description": "Add a dog ASCII art with customizable text"
+  },
+  "Divider Bars": {
+    "prefix": "divider-bars",
+    "body": [
+      "// ${1:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}",
+      "// ${2:~~~~~~~~ Code Magic Starts Here ~~~~~~~~~~~~}",
+      "// ${3:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}"
+    ],
+    "description": "Add divider bars with customizable text"
+  },
+  "Rocket": {
+    "prefix": "rocket",
+    "body": [
+      "// 🚀 ${1:Launching in 3...2...1...}"
+    ],
+    "description": "Add a rocket comment with customizable text"
+  },
+  "Arrow": {
+    "prefix": "arrow",
+    "body": [
+      "// ===> ${1:Let's move to the next section!}"
+    ],
+    "description": "Add an arrow comment with customizable text"
+  },
+  "Matrix Mode": {
+    "prefix": "matrix-mode",
+    "body": [
+      "// ${1:Wake up, Neo...}",
+      "// ∧＿∧",
+      "// (｡･ω･｡)つ━☆・*。",
+      "// ⊂ ノ ・゜+.",
+      "// しーＪ °。+ *´¨)"
+    ],
+    "description": "Add a Matrix-themed ASCII art with customizable text"
+  },
+  "Debugging Zen": {
+    "prefix": "debugging-zen",
+    "body": [
+      "// ${1:The bug you’re looking for is always in the last place you check.}"
+    ],
+    "description": "Add a debugging Zen quote with customizable text"
+  },
+  "Cheers / Victory": {
+    "prefix": "victory",
+    "body": [
+      "// (ノ°∀°)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆ ${1:Victory!}"
+    ],
+    "description": "Add a cheers/victory comment with customizable text"
+  },
+  "Party Face": {
+    "prefix": "party-face",
+    "body": [
+      "// (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ${1:Woohoo!}"
+    ],
+    "description": "Add a party face comment with customizable text"
+  },
+  "Emphasis Box": {
+    "prefix": "emphasis-box",
+    "body": [
+      "// +-----------------------------+",
+      "// |   ${1:Critical Code Section!}    |",
+      "// +-----------------------------+"
+    ],
+    "description": "Add an emphasis box with customizable text"
+  },
+  "Error Warning Box": {
+    "prefix": "error-box",
+    "body": [
+      "// +-----------------------------+",
+      "// |   ${1:Potential Bug Here!}   |",
+      "// +-----------------------------+"
+    ],
+    "description": "Add an error warning box with customizable text"
+  },
+  "Encouraging Note": {
+    "prefix": "encourage",
+    "body": [
+      "// (•̀ᴗ•́)و ${1:Keep it up!}"
+    ],
+    "description": "Add an encouraging note with customizable text"
+  },
+  "Self-Care Reminder": {
+    "prefix": "self-care",
+    "body": [
+      "// Remember: ( •_•)ノ⌒●~* ${1:Take a break.}"
+    ],
+    "description": "Add a self-care reminder with customizable text"
+  }
+}
+
 }
