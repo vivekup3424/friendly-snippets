@@ -419,7 +419,7 @@
       "// (•‿•) ${1:Coding is fun!}"
     ],
     "description": "Add a happy face comment with customizable text"
-  },
+    },
   "Winking Face": {
     "prefix": "winking-face",
     "body": [
